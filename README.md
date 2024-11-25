@@ -8,6 +8,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,js,git,github,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,js,git,github,vscode&perline=14" />
   </a>
 </p>
