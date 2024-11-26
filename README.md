@@ -12,10 +12,10 @@
 
 <br><br>
 
-- :school: I am a `Junior backend developer` 
+- :school: I'm a `Junior backend developer` 
 - :technologist: I love using Software as a solution `Problems`.
 - :student: I’m currently learning `Laravel`.
-- :nerd_face: I study `systems engineering`.
+- :nerd_face: I'm `IT technician` and i'm about to start studying `systems engineering`.
 - :thinking: I’m currently open for a `job opportunity`.
 - :boom: You can visit [MY WEBSITE](https://joacoooweimann.github.io/Portafolio/).
 <br>
@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-<h2 style="display: inline-block">Where to find me</h2>
+<h2 style="display: inline-block">Where To Find Me</h2>
 <p>
 <a href="https://github.com/JoacoooWeimann" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/joaquin-weimann-309ab62a1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
