@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution `Problems`.
 - :student: I’m currently learning `Laravel`.
 - :nerd_face: I study `systems engineering`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: I’m currently open for a `job opportunity`.
 - :boom: You can visit [MY WEBSITE](https://joacoooweimann.github.io/Portafolio/).
 <br>
 
