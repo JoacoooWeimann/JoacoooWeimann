@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-<h2 style="display: inline-block"> ## Technologies That I Know</h2>
+<h2 style="display: inline-block">Technologies That I Know</h2>
 </div>
 <!--tech stack icons-->
 <p align="center">
