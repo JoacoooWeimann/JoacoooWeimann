@@ -14,7 +14,7 @@
 
 - :school: I'm a `Junior backend developer` 
 - :technologist: I love using Software as a solution `Problems`.
-- :nerd_face: I’m currently learning `Laravel`.
+- :nerd_face: I’m currently learning `Node.JS`.
 - :student: I'm `IT technician` and i'm about to start studying `systems engineering`.
 - :thinking: I’m currently open for a `job opportunity`.
 - :boom: You can visit [MY WEBSITE](https://joacoooweimann.github.io/Portafolio/).
